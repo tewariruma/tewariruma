@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ruma Tewari
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Open Source
 - 🌱 I’m currently learning Node Js
 
 <!---
